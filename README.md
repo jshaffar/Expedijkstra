@@ -43,13 +43,14 @@ All results are in Examples folder.
 Chacalluta Airport, Arica -> El Alto International Airport, La Paz -> Viru Viru International Airport, Santa Cruz -> Adolfo Suárez Madrid–Barajas Airport, Madrid -> Nantes Atlantique Airport, Nantes -> Southampton Airport, Southampton -> Jersey Airport, Jersey
 
 #### Djikistras Vizualization from Kristianstad Airport (KID) in Scania, Sweden to  Uberlandia Airport (UDI) in Uberlândia, Brazil
-![alt text](https://github-dev.cs.illinois.edu/cs225-fa20/shaffar3-smvarma2-mjamil3/blob/master/Examples/kid_udi_dijikstra.png)
+https://github.com/jshaffar/Expedijkstra/blob/master/Examples/ari_jer_dij_example.txt
+![alt text](https://github.com/jshaffar/Expedijkstra/blob/master/Examples/kid_udi_dijikstra.png)
 #### BFS animation by layer from Herat Airport (HEA) in Herat, Afganistan
-![alt text](https://github-dev.cs.illinois.edu/cs225-fa20/shaffar3-smvarma2-mjamil3/blob/master/Examples/herat_bfs_by_layer.gif)
+![alt text](https://github.com/jshaffar/Expedijkstra/blob/master/Examples/herat_bfs_by_layer.gif)
 #### BFS animation by edge from Macarther Airport (ISP) in Islip, New York for the first 400 edges of traversal.
-![alt text](https://github-dev.cs.illinois.edu/cs225-fa20/shaffar3-smvarma2-mjamil3/blob/master/Examples/isp_bfs_by_edge_400.gif)
+![alt text](https://github.com/jshaffar/Expedijkstra/blob/master/Examples/isp_bfs_by_edge_400.gif)
  <br />
-Actual order of bfs traversal from Minot International Airport (MOT) in Minot, North Dakota, can be found at https://github-dev.cs.illinois.edu/cs225-fa20/shaffar3-smvarma2-mjamil3/blob/master/Examples/mot_bfs_order.txt
+Actual order of bfs traversal from Minot International Airport (MOT) in Minot, North Dakota, can be found at https://github.com/jshaffar/Expedijkstra/blob/master/Examples/mot_bfs_order.txt
 
 ## Data Format
 For this project, the data was taken from https://openflights.org/data.html, and is the flight and route as of June 2014. The raw files can be found in the data folder of the repository. The data is in a .dat file and is separated by commas. There is an airports.dat that contains airport data with the following fields in order. The fields are strings unless stated otherwise(Like latitude, longitude, altitude):
